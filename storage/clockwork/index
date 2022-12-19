@@ -75,3 +75,16 @@
 1671477859-0126-833858676,1671477858.9821,GET,/listings/7,"App\Http\Controllers\ListingController@show",200,61.354875564575,request
 1671478150-2877-1177578378,1671478150.2603,GET,/listings/7,"App\Http\Controllers\ListingController@show",200,64.846992492676,request
 1671478342-5592-1724882227,1671478342.5321,GET,/listings/7/edit,"App\Http\Controllers\ListingController@edit",500,251.40810012817,request
+1671478840-4246-35857599,1671478840.3894,GET,/listings/7/edit,"App\Http\Controllers\ListingController@edit",200,65.329074859619,request
+1671478840-7647-1153122611,1671478840.7574,GET,/listings/7/images/favicon.ico,,404,17.302989959717,request
+1671479097-5811-1579603999,1671479097.5595,PUT,/listings/7,"App\Http\Controllers\ListingController@update",302,112.38193511963,request
+1671479097-7158-1121978496,1671479097.7083,GET,/listings/7/edit,"App\Http\Controllers\ListingController@edit",200,23.934125900269,request
+1671479136-6413-1157617378,1671479136.6146,PUT,/listings/7,"App\Http\Controllers\ListingController@update",302,51.932096481323,request
+1671479136-6764-1113053483,1671479136.6708,GET,/listings/7/edit,"App\Http\Controllers\ListingController@edit",200,16.083002090454,request
+1671479167-8338-77827360,1671479167.8154,GET,/listings/7/edit,"App\Http\Controllers\ListingController@edit",200,46.931028366089,request
+1671485342-4795-690356781,1671485342.4401,GET,/,"App\Http\Controllers\ListingController@index",200,118.20316314697,request
+1671485347-6936-1278530945,1671485347.6819,GET,/listings/2,"App\Http\Controllers\ListingController@show",200,40.222883224487,request
+1671485428-9303-2049424113,1671485428.9155,GET,/listings/2,"App\Http\Controllers\ListingController@show",200,35.231113433838,request
+1671485457-3080-742603223,1671485457.2798,GET,/listings/2,"App\Http\Controllers\ListingController@show",200,53.380966186523,request
+1671485584-0146-1850745638,1671485583.9904,DELETE,/listings/2,"App\Http\Controllers\ListingController@destroy",302,70.671796798706,request
+1671485584-0764-235955807,1671485584.0671,GET,/,"App\Http\Controllers\ListingController@index",200,25.21014213562,request
