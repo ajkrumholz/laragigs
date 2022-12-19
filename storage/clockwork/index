@@ -68,3 +68,4 @@
 1671475689-9290-232892224,1671475689.9093,GET,/,"App\Http\Controllers\ListingController@index",200,54.960012435913,request
 1671475696-5080-382073359,1671475696.4971,GET,/?page=2,"App\Http\Controllers\ListingController@index",200,31.352996826172,request
 1671475699-4706-629340530,1671475699.4627,GET,/?page=1,"App\Http\Controllers\ListingController@index",200,26.901006698608,request
+1671476004-3753-377284106,1671476004.3421,GET,/listings/create,"App\Http\Controllers\ListingController@create",200,71.299076080322,request
