@@ -71,3 +71,5 @@
 1671476004-3753-377284106,1671476004.3421,GET,/listings/create,"App\Http\Controllers\ListingController@create",200,71.299076080322,request
 1671477337-2677-1926867870,1671477337.2118,POST,/listings,"App\Http\Controllers\ListingController@store",302,140.89107513428,request
 1671477337-3702-1402714862,1671477337.3626,GET,/,"App\Http\Controllers\ListingController@index",200,24.474859237671,request
+1671477786-8537-701397215,1671477786.8167,GET,/,"App\Http\Controllers\ListingController@index",200,84.053993225098,request
+1671477859-0126-833858676,1671477858.9821,GET,/listings/7,"App\Http\Controllers\ListingController@show",200,61.354875564575,request
