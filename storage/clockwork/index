@@ -42,3 +42,6 @@
 1671474021-1766-898192225,1671474021.139,GET,/listings/create,"App\Http\Controllers\ListingController@create",200,66.129922866821,request
 1671474102-4409-248731953,1671474102.4153,POST,/listings,"App\Http\Controllers\ListingController@store",302,125.72813034058,request
 1671474102-5636-2541678,1671474102.5493,GET,/,"App\Http\Controllers\ListingController@index",200,50.792932510376,request
+1671474343-2764-1168439800,1671474343.2492,GET,/listings/create,"App\Http\Controllers\ListingController@create",200,49.278020858765,request
+1671474429-8641-134810091,1671474429.8428,POST,/listings,"App\Http\Controllers\ListingController@store",302,47.549962997437,request
+1671474429-9002-2033371938,1671474429.8943,GET,/,"App\Http\Controllers\ListingController@index",200,20.559072494507,request
