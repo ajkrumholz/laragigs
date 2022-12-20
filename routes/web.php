@@ -11,6 +11,9 @@ use App\Http\Controllers\ListingController;
 // Show all listings
 Route::get('/', [ListingController::class, 'index']);
 
+// Manage listings
+Route::get('/listings/manage', [ListingController::class, 'manage'])->middleware('auth');
+
 // Show listing create form
 Route::get('/listings/create', [ListingController::class, 'create'])->middleware('auth');
 
