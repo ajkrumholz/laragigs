@@ -151,3 +151,4 @@
 1671547949-5335-1309607136,1671547949.5313,GET,/,"App\Http\Controllers\ListingController@index",200,8.2170963287354,request
 1671547971-1935-413425023,1671547971.1809,GET,/register,"App\Http\Controllers\UserController@create",302,30.296087265015,request
 1671547971-2233-38242028,1671547971.2143,GET,/,"App\Http\Controllers\ListingController@index",200,18.61310005188,request
+1671548233-1018-1173421303,1671548233.0795,GET,/,"App\Http\Controllers\ListingController@index",200,48.386096954346,request
