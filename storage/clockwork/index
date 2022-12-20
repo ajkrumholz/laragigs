@@ -141,3 +141,13 @@
 1671547723-4751-1346410840,1671547723.446,GET,/listings/create,"App\Http\Controllers\ListingController@create",500,254.53805923462,request
 1671547773-7986-1919182125,1671547773.7703,GET,/listings/create,"App\Http\Controllers\ListingController@create",302,45.231819152832,request
 1671547773-8266-943932649,1671547773.82,GET,/login,"App\Http\Controllers\UserController@login",200,13.811826705933,request
+1671547914-1168-1472410608,1671547914.0752,GET,/login,"App\Http\Controllers\UserController@login",200,63.117027282715,request
+1671547919-5117-598669962,1671547919.4978,POST,/users/authenticate,"App\Http\Controllers\UserController@authenticate",302,127.78997421265,request
+1671547919-6339-2063707246,1671547919.6317,GET,/,"App\Http\Controllers\ListingController@index",200,9.6478462219238,request
+1671547941-7675-1932963519,1671547941.7488,POST,/logout,"App\Http\Controllers\UserController@logout",302,37.691116333008,request
+1671547941-7978-838022651,1671547941.7916,GET,/,"App\Http\Controllers\ListingController@index",200,19.604921340942,request
+1671547942-7803-35621008,1671547942.7739,GET,/login,"App\Http\Controllers\UserController@login",200,16.688823699951,request
+1671547949-4256-1234056276,1671547949.4084,POST,/users/authenticate,"App\Http\Controllers\UserController@authenticate",302,120.73612213135,request
+1671547949-5335-1309607136,1671547949.5313,GET,/,"App\Http\Controllers\ListingController@index",200,8.2170963287354,request
+1671547971-1935-413425023,1671547971.1809,GET,/register,"App\Http\Controllers\UserController@create",302,30.296087265015,request
+1671547971-2233-38242028,1671547971.2143,GET,/,"App\Http\Controllers\ListingController@index",200,18.61310005188,request
