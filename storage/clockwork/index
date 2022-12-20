@@ -88,3 +88,6 @@
 1671485457-3080-742603223,1671485457.2798,GET,/listings/2,"App\Http\Controllers\ListingController@show",200,53.380966186523,request
 1671485584-0146-1850745638,1671485583.9904,DELETE,/listings/2,"App\Http\Controllers\ListingController@destroy",302,70.671796798706,request
 1671485584-0764-235955807,1671485584.0671,GET,/,"App\Http\Controllers\ListingController@index",200,25.21014213562,request
+1671485983-9821-1793794457,1671485983.9597,GET,/register.html,,404,38.345098495483,request
+1671486008-5110-1197424916,1671486008.4905,GET,/,"App\Http\Controllers\ListingController@index",200,46.894788742065,request
+1671486010-8966-1181566079,1671486010.8859,GET,/register,"App\Http\Controllers\UserController@create",200,26.465177536011,request
