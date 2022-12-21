@@ -178,3 +178,4 @@
 1671553749-3025-1829362660,1671553749.2668,GET,/,"App\Http\Controllers\ListingController@index",200,103.27887535095,request
 1671553817-4486-867928351,1671553817.4291,GET,/listings/1,"App\Http\Controllers\ListingController@show",200,42.309999465942,request
 1671553836-8441-901231676,1671553836.8352,GET,/?tag=laravel,"App\Http\Controllers\ListingController@index",200,36.18597984314,request
+1671635369-0810-391666505,1671635369.0361,GET,/,"App\Http\Controllers\ListingController@index",200,121.59395217896,request
